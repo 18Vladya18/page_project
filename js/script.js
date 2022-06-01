@@ -37,3 +37,4 @@ genre.textContent = 'драма';
 poster.style.backgroundImage = 'url("img/bg.jpg")';
 
 // Что-то написал на компе.
+// А теперь что-то написал на ноуте, чтобы посмотреть на компе.
