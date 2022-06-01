@@ -34,6 +34,6 @@ adv.forEach(item => {
 
 genre.textContent = 'драма';
 
-// test two for merge;
-
 poster.style.backgroundImage = 'url("img/bg.jpg")';
+
+// Что-то написал на компе.
